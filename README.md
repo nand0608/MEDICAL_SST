@@ -49,3 +49,6 @@ The system works completely **offline**, ensures **patient data privacy**, accur
 ```bash
 python --version
 
+###2. Clone Repository
+
+
