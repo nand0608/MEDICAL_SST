@@ -59,8 +59,8 @@ cd medical-speech-to-text
 python -m venv venv
 ```
 Activate:
-Windows: venv\Scripts\activate
-Linux/macOS: source venv/bin/activate
+-Windows: venv\Scripts\activate
+-Linux/macOS: source venv/bin/activate
 
 ### 4. Install Dependencies
 ```bash
@@ -72,5 +72,6 @@ Extract to:
 ```bash
 model/vosk-model-small-en-us-0.15/
 ```
+
 
 
