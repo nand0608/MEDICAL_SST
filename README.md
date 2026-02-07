@@ -72,6 +72,11 @@ Extract to:
 ```bash
 model/vosk-model-small-en-us-0.15/
 ```
+### 6.Run code
+```bash
+python stt_prescription.py
+```
+
 
 
 
