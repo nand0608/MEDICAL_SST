@@ -57,11 +57,11 @@ cd medical-speech-to-text
 ### 3. Create Virtual Environment
 ```bash
 python -m venv venv
+```
 Activate:
-
 Windows: venv\Scripts\activate
 Linux/macOS: source venv/bin/activate
-```
+
 ### 4. Install Dependencies
 ```bash
 pip install -r requirements.txt
@@ -72,4 +72,5 @@ Extract to:
 ```bash
 model/vosk-model-small-en-us-0.15/
 ```
+
 
