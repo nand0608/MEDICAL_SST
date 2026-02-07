@@ -51,7 +51,7 @@ python --version
 ```
 ### 2. Clone Repository
 ```bash
-git clone https://github.com/<your-username>/medical-speech-to-text.git
+git clone https://github.com/nand0608/medical-speech-to-text.git
 cd medical-speech-to-text
 ```
 ### 3. Create Virtual Environment
@@ -76,6 +76,7 @@ model/vosk-model-small-en-us-0.15/
 ```bash
 python stt_prescription.py
 ```
+
 
 
 
