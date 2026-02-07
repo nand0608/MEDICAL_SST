@@ -48,7 +48,27 @@ The system works completely **offline**, ensures **patient data privacy**, accur
 ### 1. Install Python
 ```bash
 python --version
-
+```
 ###2. Clone Repository
+```bash
+git clone https://github.com/<your-username>/medical-speech-to-text.git
+cd medical-speech-to-text
+```
+###3. Create Virtual Environment
+```bash
+python -m venv venv
+Activate:
 
-
+Windows: venv\Scripts\activate
+Linux/macOS: source venv/bin/activate
+```
+###4. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+###5. Download Vosk Model
+Download from https://alphacephei.com/vosk/models
+Extract to:
+```bash
+model/vosk-model-small-en-us-0.15/
+```
